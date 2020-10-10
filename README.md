@@ -1,2 +1,2 @@
 # Estudos Web - PHP
-Pequenos códigos de cursos e trabalhos já realizados
+Inicio de site de ecommerce utilizando html e php
